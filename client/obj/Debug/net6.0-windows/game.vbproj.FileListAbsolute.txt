@@ -1,0 +1,84 @@
+C:\Users\nelov\source\repos\게임프로젝트\client\bin\Debug\net6.0-windows\game.exe
+C:\Users\nelov\source\repos\게임프로젝트\client\bin\Debug\net6.0-windows\game.deps.json
+C:\Users\nelov\source\repos\게임프로젝트\client\bin\Debug\net6.0-windows\game.runtimeconfig.json
+C:\Users\nelov\source\repos\게임프로젝트\client\bin\Debug\net6.0-windows\game.dll
+C:\Users\nelov\source\repos\게임프로젝트\client\bin\Debug\net6.0-windows\game.pdb
+C:\Users\nelov\source\repos\게임프로젝트\client\obj\Debug\net6.0-windows\game.vbproj.AssemblyReference.cache
+C:\Users\nelov\source\repos\게임프로젝트\client\obj\Debug\net6.0-windows\game.Resources.resources
+C:\Users\nelov\source\repos\게임프로젝트\client\obj\Debug\net6.0-windows\game.vbproj.GenerateResource.cache
+C:\Users\nelov\source\repos\게임프로젝트\client\obj\Debug\net6.0-windows\game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelov\source\repos\게임프로젝트\client\obj\Debug\net6.0-windows\game.AssemblyInfoInputs.cache
+C:\Users\nelov\source\repos\게임프로젝트\client\obj\Debug\net6.0-windows\game.AssemblyInfo.vb
+C:\Users\nelov\source\repos\게임프로젝트\client\obj\Debug\net6.0-windows\game.vbproj.CoreCompileInputs.cache
+C:\Users\nelov\source\repos\게임프로젝트\client\obj\Debug\net6.0-windows\game.dll
+C:\Users\nelov\source\repos\게임프로젝트\client\obj\Debug\net6.0-windows\refint\game.dll
+C:\Users\nelov\source\repos\게임프로젝트\client\obj\Debug\net6.0-windows\game.pdb
+C:\Users\nelov\source\repos\게임프로젝트\client\obj\Debug\net6.0-windows\game.genruntimeconfig.cache
+C:\Users\nelov\source\repos\게임프로젝트\client\obj\Debug\net6.0-windows\ref\game.dll
+C:\Users\nelov\source\repos\게임프로젝트\client\bin\Debug\net6.0-windows\game.dll.config
+C:\Users\nelov\source\repos\게임프로젝트\client\obj\Debug\net6.0-windows\game.Form2.resources
+C:\Users\nelov\source\repos\게임프로젝트\client\obj\Debug\net6.0-windows\game.Form1.resources
+C:\Users\nelov\source\repos\게임프로젝트\client\obj\Debug\net6.0-windows\game.Form3.resources
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\MiningStar\client\bin\Debug\net6.0-windows\game.exe
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\MiningStar\client\bin\Debug\net6.0-windows\game.dll.config
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\MiningStar\client\bin\Debug\net6.0-windows\game.deps.json
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\MiningStar\client\bin\Debug\net6.0-windows\game.runtimeconfig.json
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\MiningStar\client\bin\Debug\net6.0-windows\game.dll
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\MiningStar\client\bin\Debug\net6.0-windows\game.pdb
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\MiningStar\client\obj\Debug\net6.0-windows\game.vbproj.AssemblyReference.cache
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\MiningStar\client\obj\Debug\net6.0-windows\game.Form2.resources
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\MiningStar\client\obj\Debug\net6.0-windows\game.Form3.resources
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\MiningStar\client\obj\Debug\net6.0-windows\game.Form1.resources
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\MiningStar\client\obj\Debug\net6.0-windows\game.Resources.resources
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\MiningStar\client\obj\Debug\net6.0-windows\game.vbproj.GenerateResource.cache
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\MiningStar\client\obj\Debug\net6.0-windows\game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\MiningStar\client\obj\Debug\net6.0-windows\game.AssemblyInfoInputs.cache
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\MiningStar\client\obj\Debug\net6.0-windows\game.AssemblyInfo.vb
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\MiningStar\client\obj\Debug\net6.0-windows\game.vbproj.CoreCompileInputs.cache
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\MiningStar\client\obj\Debug\net6.0-windows\game.dll
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\MiningStar\client\obj\Debug\net6.0-windows\refint\game.dll
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\MiningStar\client\obj\Debug\net6.0-windows\game.pdb
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\MiningStar\client\obj\Debug\net6.0-windows\game.genruntimeconfig.cache
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\MiningStar\client\obj\Debug\net6.0-windows\ref\game.dll
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\게임프로젝트\client\bin\Debug\net6.0-windows\game.exe
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\게임프로젝트\client\bin\Debug\net6.0-windows\game.dll.config
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\게임프로젝트\client\bin\Debug\net6.0-windows\game.deps.json
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\게임프로젝트\client\bin\Debug\net6.0-windows\game.runtimeconfig.json
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\게임프로젝트\client\bin\Debug\net6.0-windows\game.dll
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\게임프로젝트\client\bin\Debug\net6.0-windows\game.pdb
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\game.vbproj.AssemblyReference.cache
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\game.Form2.resources
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\game.Form3.resources
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\game.Form1.resources
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\game.Resources.resources
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\game.vbproj.GenerateResource.cache
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\game.AssemblyInfoInputs.cache
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\game.AssemblyInfo.vb
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\game.vbproj.CoreCompileInputs.cache
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\game.dll
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\refint\game.dll
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\game.pdb
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\game.genruntimeconfig.cache
+C:\Users\nelov\OneDrive\바탕 화면\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\ref\game.dll
+D:\현생\{대학교} 생활\2022년 2학기\비쥬얼베이직실습\프로젝트\221124102_김나은\221124102_김나은\게임프로젝트\client\bin\Debug\net6.0-windows\game.exe
+D:\현생\{대학교} 생활\2022년 2학기\비쥬얼베이직실습\프로젝트\221124102_김나은\221124102_김나은\게임프로젝트\client\bin\Debug\net6.0-windows\game.dll.config
+D:\현생\{대학교} 생활\2022년 2학기\비쥬얼베이직실습\프로젝트\221124102_김나은\221124102_김나은\게임프로젝트\client\bin\Debug\net6.0-windows\game.deps.json
+D:\현생\{대학교} 생활\2022년 2학기\비쥬얼베이직실습\프로젝트\221124102_김나은\221124102_김나은\게임프로젝트\client\bin\Debug\net6.0-windows\game.runtimeconfig.json
+D:\현생\{대학교} 생활\2022년 2학기\비쥬얼베이직실습\프로젝트\221124102_김나은\221124102_김나은\게임프로젝트\client\bin\Debug\net6.0-windows\game.dll
+D:\현생\{대학교} 생활\2022년 2학기\비쥬얼베이직실습\프로젝트\221124102_김나은\221124102_김나은\게임프로젝트\client\bin\Debug\net6.0-windows\game.pdb
+D:\현생\{대학교} 생활\2022년 2학기\비쥬얼베이직실습\프로젝트\221124102_김나은\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\game.vbproj.AssemblyReference.cache
+D:\현생\{대학교} 생활\2022년 2학기\비쥬얼베이직실습\프로젝트\221124102_김나은\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\game.Form2.resources
+D:\현생\{대학교} 생활\2022년 2학기\비쥬얼베이직실습\프로젝트\221124102_김나은\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\game.Form3.resources
+D:\현생\{대학교} 생활\2022년 2학기\비쥬얼베이직실습\프로젝트\221124102_김나은\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\game.Form1.resources
+D:\현생\{대학교} 생활\2022년 2학기\비쥬얼베이직실습\프로젝트\221124102_김나은\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\game.Resources.resources
+D:\현생\{대학교} 생활\2022년 2학기\비쥬얼베이직실습\프로젝트\221124102_김나은\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\game.vbproj.GenerateResource.cache
+D:\현생\{대학교} 생활\2022년 2학기\비쥬얼베이직실습\프로젝트\221124102_김나은\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\game.GeneratedMSBuildEditorConfig.editorconfig
+D:\현생\{대학교} 생활\2022년 2학기\비쥬얼베이직실습\프로젝트\221124102_김나은\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\game.AssemblyInfoInputs.cache
+D:\현생\{대학교} 생활\2022년 2학기\비쥬얼베이직실습\프로젝트\221124102_김나은\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\game.AssemblyInfo.vb
+D:\현생\{대학교} 생활\2022년 2학기\비쥬얼베이직실습\프로젝트\221124102_김나은\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\game.vbproj.CoreCompileInputs.cache
+D:\현생\{대학교} 생활\2022년 2학기\비쥬얼베이직실습\프로젝트\221124102_김나은\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\game.dll
+D:\현생\{대학교} 생활\2022년 2학기\비쥬얼베이직실습\프로젝트\221124102_김나은\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\refint\game.dll
+D:\현생\{대학교} 생활\2022년 2학기\비쥬얼베이직실습\프로젝트\221124102_김나은\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\game.pdb
+D:\현생\{대학교} 생활\2022년 2학기\비쥬얼베이직실습\프로젝트\221124102_김나은\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\game.genruntimeconfig.cache
+D:\현생\{대학교} 생활\2022년 2학기\비쥬얼베이직실습\프로젝트\221124102_김나은\221124102_김나은\게임프로젝트\client\obj\Debug\net6.0-windows\ref\game.dll

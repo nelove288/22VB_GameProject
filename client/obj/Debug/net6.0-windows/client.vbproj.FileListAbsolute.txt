@@ -1,0 +1,17 @@
+C:\Users\nelov\source\repos\게임프로젝트\client\obj\Debug\net6.0-windows\client.vbproj.AssemblyReference.cache
+C:\Users\nelov\source\repos\게임프로젝트\client\obj\Debug\net6.0-windows\client.Form1.resources
+C:\Users\nelov\source\repos\게임프로젝트\client\obj\Debug\net6.0-windows\client.vbproj.GenerateResource.cache
+C:\Users\nelov\source\repos\게임프로젝트\client\obj\Debug\net6.0-windows\client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelov\source\repos\게임프로젝트\client\obj\Debug\net6.0-windows\client.AssemblyInfoInputs.cache
+C:\Users\nelov\source\repos\게임프로젝트\client\obj\Debug\net6.0-windows\client.AssemblyInfo.vb
+C:\Users\nelov\source\repos\게임프로젝트\client\obj\Debug\net6.0-windows\client.vbproj.CoreCompileInputs.cache
+C:\Users\nelov\source\repos\게임프로젝트\client\bin\Debug\net6.0-windows\client.exe
+C:\Users\nelov\source\repos\게임프로젝트\client\bin\Debug\net6.0-windows\client.deps.json
+C:\Users\nelov\source\repos\게임프로젝트\client\bin\Debug\net6.0-windows\client.runtimeconfig.json
+C:\Users\nelov\source\repos\게임프로젝트\client\bin\Debug\net6.0-windows\client.dll
+C:\Users\nelov\source\repos\게임프로젝트\client\bin\Debug\net6.0-windows\client.pdb
+C:\Users\nelov\source\repos\게임프로젝트\client\obj\Debug\net6.0-windows\client.dll
+C:\Users\nelov\source\repos\게임프로젝트\client\obj\Debug\net6.0-windows\refint\client.dll
+C:\Users\nelov\source\repos\게임프로젝트\client\obj\Debug\net6.0-windows\client.pdb
+C:\Users\nelov\source\repos\게임프로젝트\client\obj\Debug\net6.0-windows\client.genruntimeconfig.cache
+C:\Users\nelov\source\repos\게임프로젝트\client\obj\Debug\net6.0-windows\ref\client.dll
